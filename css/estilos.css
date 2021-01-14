@@ -1,5 +1,12 @@
 body{
-    color:blueviolet;
+    color: darkslategrey;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    padding: 2em;
+    border: solid 1px darkslategrey;
+    margin: 0 auto;
+    width: 70%;
 }
