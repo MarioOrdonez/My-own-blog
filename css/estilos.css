@@ -10,3 +10,12 @@ body{
     margin: 0 auto;
     width: 70%;
 }
+
+.cabecera{
+    color: white;
+    background-color: dodgerblue;
+    font-weight: 700;
+    margin: 0 auto;
+    width: 70%;
+
+}
