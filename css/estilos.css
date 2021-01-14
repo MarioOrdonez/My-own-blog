@@ -1,7 +1,7 @@
 body{
     color: darkslategrey;
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .container{
@@ -9,4 +9,13 @@ body{
     border: solid 1px darkslategrey;
     margin: 0 auto;
     width: 70%;
+}
+
+.cabecera{
+    color: white;
+    background-color: dodgerblue;
+    font-weight: 700;
+    margin: 0 auto;
+    width: 70%;
+
 }
