@@ -19,12 +19,15 @@ body
     padding: 0.5em;
 }
 
+<<<<<<< HEAD
 #cabecera #logo
 {
     width: 20px;
     vertical-align: middle;
 }
 
+=======
+>>>>>>> footer
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
@@ -49,4 +52,13 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+.footer{
+    color: white;
+    width: 70%;
+    background-color:  #37488B;
+    text-align: center;
+    padding: 1em;
+    margin: 0 auto;
 }
